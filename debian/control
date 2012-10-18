@@ -1,11 +1,11 @@
-Source: mint-apt-config-kde
+Source: netrunner-apt-config
 Section: admin
 Priority: optional
-Maintainer: Clement Lefebvre <root@linuxmint.com>
+Maintainer: Phoenix <phoenix@netrunner-os.com>
 Build-Depends: debhelper (>= 5)
 Standards-Version: 3.7.2
 
-Package: mint-apt-config-kde
+Package: netrunner-apt-config
 Architecture: all
-Description: Apt configuration for the Linux Mint KDE Katya release.
-  This package contains the apt configuration files for Linux Mint KDE Katya.
+Description: Apt configuration for the Netrunner Dryland TE release.
+  This package contains the apt configuration files for Netrunner Dryland TE release.
