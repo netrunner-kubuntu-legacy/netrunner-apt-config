@@ -1,0 +1,5 @@
+netrunner-apt-config (1.0.0) dryland-te; urgency=low
+
+  * Initial Dryland TE release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 04 Oct 2012 13:04:40 +0200

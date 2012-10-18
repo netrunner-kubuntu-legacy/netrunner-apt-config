@@ -1,0 +1,5 @@
+## -----------------------------
+## CYBERSPACE PROJECT REPOSITORY
+## -----------------------------
+deb http://ppa.launchpad.net/cyberspace/ppa/ubuntu quantal main 
+#deb-src http://ppa.launchpad.net/cyberspace/ppa/ubuntu quantal main 
