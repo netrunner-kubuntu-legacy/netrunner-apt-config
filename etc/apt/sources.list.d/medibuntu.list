@@ -1,6 +1,6 @@
 ## -----------------------------
 ## MEDIBUNTU REPOSITORY
 ## -----------------------------
-deb http://packages.medibuntu.org/ quantal free non-free
-#deb http://packages.medibuntu.org/ quantal free non-free
+deb http://packages.medibuntu.org/ raring free non-free
+#deb http://packages.medibuntu.org/ raring free non-free
 

@@ -1,3 +1,9 @@
+netrunner-apt-config (1.0.2) enigma-1306; urgency=low
+
+  * Initial Enigma-1306 release
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Mon, 11 Mar 2013 14:21:11 +0100
+
 netrunner-apt-config (1.0.1) dryland-te; urgency=low
 
   * Changed priorities

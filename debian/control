@@ -7,5 +7,5 @@ Standards-Version: 3.7.2
 
 Package: netrunner-apt-config
 Architecture: all
-Description: Apt configuration for the Netrunner Dryland TE release.
-  This package contains the apt configuration files for Netrunner Dryland TE release.
+Description: Apt configuration for the Netrunner Enigma-1306 release.
+  This package contains the apt configuration files for Netrunner Enigma-1306 release.
