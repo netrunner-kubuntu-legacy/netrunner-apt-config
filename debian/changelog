@@ -1,3 +1,9 @@
+netrunner-apt-config (1.0.3) enigma-1306; urgency=low
+
+  * Remove cyberspace source
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Tue, 12 Mar 2013 11:21:34 +0100
+
 netrunner-apt-config (1.0.2) enigma-1306; urgency=low
 
   * Initial Enigma-1306 release
