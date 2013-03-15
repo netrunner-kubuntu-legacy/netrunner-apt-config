@@ -1,3 +1,9 @@
+netrunner-apt-config (1.0.4) enigma-1306; urgency=low
+
+  * Add netrunner-os preference
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Fri, 15 Mar 2013 09:38:38 +0100
+
 netrunner-apt-config (1.0.3) enigma-1306; urgency=low
 
   * Remove cyberspace source
