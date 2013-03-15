@@ -2,5 +2,5 @@
 ## MEDIBUNTU REPOSITORY
 ## -----------------------------
 deb http://packages.medibuntu.org/ raring free non-free
-#deb http://packages.medibuntu.org/ raring free non-free
+#deb-src http://packages.medibuntu.org/ raring free non-free
 
