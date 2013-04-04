@@ -1,3 +1,9 @@
+netrunner-apt-config (1.0.5) enigma-1306; urgency=low
+
+  * New sources tool : new sources files
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 04 Apr 2013 10:40:15 +0200
+
 netrunner-apt-config (1.0.4) enigma-1306; urgency=low
 
   * Add netrunner-os preference
