@@ -1,3 +1,15 @@
+netrunner-apt-config (1.0.7) enigma-1306; urgency=low
+
+  * Fix source
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Sun, 14 Apr 2013 10:39:57 +0200
+
+netrunner-apt-config (1.0.6) enigma-1306; urgency=low
+
+  * BETA3
+
+ -- Frédéric Gaudet <fred@linuxmint.com>  Thu, 11 Apr 2013 14:32:13 +0200
+
 netrunner-apt-config (1.0.5) enigma-1306; urgency=low
 
   * New sources tool : new sources files

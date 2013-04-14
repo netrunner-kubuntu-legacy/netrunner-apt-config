@@ -2,6 +2,7 @@
 
 deb http://packages.netrunner-os.com enigma-1306 main  #id:netrunner_main
 deb http://ppa.launchpad.net/netrunner-os/enigma-1306/ubuntu raring main
+deb http://ppa.launchpad.net/netrunner-os/enigma-1306-updates/ubuntu raring main
 
 deb http://archive.ubuntu.com/ubuntu raring main restricted universe multiverse
 deb http://archive.ubuntu.com/ubuntu raring-updates main restricted universe multiverse
