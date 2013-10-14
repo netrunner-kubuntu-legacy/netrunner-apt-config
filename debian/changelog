@@ -1,3 +1,9 @@
+netrunner-apt-config (1.0.8) saucy; urgency=low
+
+  * Update sources to link to 13.12
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 14 Oct 2013 16:55:33 +0200
+
 netrunner-apt-config (1.0.7) enigma-1306; urgency=low
 
   * Fix source
