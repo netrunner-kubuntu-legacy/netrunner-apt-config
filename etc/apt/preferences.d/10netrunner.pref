@@ -3,15 +3,15 @@ Pin: release o=netrunner
 Pin-Priority: 777
 
 Package: *
-Pin: release o=LP-PPA-netrunner-os-enigma-1312-packages
+Pin: release o=LP-PPA-netrunner-os-frontier-14-packages
 Pin-Priority: 777
 
-Package: *
-Pin: release o=LP-PPA-netrunner-os-enigma-1312-updates
-Pin-Priority: 750
+#Package: *
+#Pin: release o=LP-PPA-netrunner-os-frontier-14-updates
+#Pin-Priority: 750
 
 Package: *
-Pin: release o=LP-PPA-netrunner-os-enigma-1312
+Pin: release o=LP-PPA-netrunner-os-frontier-14
 Pin-Priority: 700
 
 Package: *
