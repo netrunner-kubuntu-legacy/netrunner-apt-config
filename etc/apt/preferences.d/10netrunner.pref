@@ -3,16 +3,12 @@ Pin: release o=netrunner
 Pin-Priority: 777
 
 Package: *
-Pin: release o=LP-PPA-netrunner-os-frontier-14-packages
+Pin: release o=LP-PPA-netrunner-os-netrunner-15
 Pin-Priority: 777
 
 Package: *
-Pin: release o=LP-PPA-netrunner-os-frontier-14-updates
+Pin: release o=LP-PPA-netrunner-os-netrunner-15-packages
 Pin-Priority: 750
-
-Package: *
-Pin: release o=LP-PPA-netrunner-os-frontier-14
-Pin-Priority: 700
 
 Package: *
 Pin: release o=LP-PPA-kubuntu-ppa-backports
