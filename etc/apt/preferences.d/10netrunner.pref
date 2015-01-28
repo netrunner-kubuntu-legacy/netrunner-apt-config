@@ -1,4 +1,8 @@
 Package: *
+Pin: release o=LP-PPA-netrunner-os-netrunner-15-updates
+Pin-Priority: 780
+
+Package: *
 Pin: release o=netrunner
 Pin-Priority: 777
 
