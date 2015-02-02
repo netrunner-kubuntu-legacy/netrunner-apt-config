@@ -2,7 +2,7 @@
 
 #deb http://packages.netrunner-os.com utopic main
 deb http://ppa.launchpad.net/netrunner-os/netrunner-15-packages/ubuntu utopic main
-# deb-src http://ppa.launchpad.net/netrunner-os/netrunner-15-packages/ubuntu utopic main
+#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-15-packages/ubuntu utopic main
 deb http://ppa.launchpad.net/netrunner-os/netrunner-15/ubuntu utopic main
 #deb-src http://ppa.launchpad.net/netrunner-os/netrunner-15/ubuntu utopic main
 deb http://ppa.launchpad.net/netrunner-os/netrunner-15-updates/ubuntu utopic main
