@@ -3,7 +3,15 @@ Pin: release o=LP-PPA-netrunner-os-netrunner-15-ci-fixes
 Pin-Priority: 888
 
 Package: *
+Pin: release o=LP-PPA-netrunner-os-netrunner-15-ci-backports
+Pin-Priority: 880
+
+Package: *
 Pin: release o=LP-PPA-netrunner-os-netrunner-15-updates
+Pin-Priority: 790
+
+Package: *
+Pin: release o=LP-PPA-netrunner-os-netrunner-15-ci-52
 Pin-Priority: 780
 
 Package: *
