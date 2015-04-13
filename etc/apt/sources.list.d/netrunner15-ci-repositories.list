@@ -13,3 +13,7 @@ deb http://ppa.launchpad.net/netrunner-os/netrunner-15-ci-updates/ubuntu utopic 
 # Netrunner CI Backports
 deb http://ppa.launchpad.net/netrunner-os/netrunner-15-ci-backports/ubuntu utopic main 
 #deb-src http://ppa.launchpad.net/netrunner-os/netrunner-15-ci-backports/ubuntu utopic main 
+
+# Netrunner CI KF57
+deb http://ppa.launchpad.net/netrunner-os/netrunner-15-ci-kf57/ubuntu utopic main 
+#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-15-ci-kf57/ubuntu utopic main 
