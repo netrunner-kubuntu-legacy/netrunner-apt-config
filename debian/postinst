@@ -19,6 +19,8 @@ set -e
 case "$1" in
     configure)
 	apt-key add /etc/apt/trusted.gpg.d/moz-plasma.key
+	apt-key add /etc/apt/trusted.gpg.d/netrunner-ppa.key
+	apt-key add /etc/apt/trusted.gpg.d/wine.key
     ;;
     abort-upgrade|abort-remove|abort-deconfigure)
         echo "Skip adding key"
