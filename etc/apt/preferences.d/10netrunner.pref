@@ -3,6 +3,10 @@ Pin: release o=LP-PPA-netrunner-os-netrunner-16
 Pin-Priority: 777
 
 Package: *
+Pin: release o=LP-PPA-netrunner-os-netrunner-16-ci-fixes
+Pin-Priority: 770
+
+Package: *
 Pin: release o=LP-PPA-netrunner-os-netrunner-16-ci
 Pin-Priority: 760
 
