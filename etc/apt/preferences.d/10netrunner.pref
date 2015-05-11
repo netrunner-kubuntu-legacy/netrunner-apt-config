@@ -1,4 +1,8 @@
 Package: *
+Pin: release o=LP-PPA-netrunner-os-netrunner-16-updates
+Pin-Priority: 888
+
+Package: *
 Pin: release o=LP-PPA-netrunner-os-netrunner-16
 Pin-Priority: 777
 
