@@ -4,10 +4,10 @@ deb http://ppa.launchpad.net/netrunner-os/netrunner-16-extras/ubuntu vivid main
 #deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-extras/ubuntu vivid main
 deb http://ppa.launchpad.net/netrunner-os/netrunner-16/ubuntu vivid main
 #deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16/ubuntu vivid main
-deb http://ppa.launchpad.net/netrunner-os/netrunner-16-ci/ubuntu vivid main 
-#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-ci/ubuntu vivid main
-deb http://ppa.launchpad.net/netrunner-os/netrunner-16-ci-fixes/ubuntu vivid main 
-#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-ci-fixes/ubuntu vivid main
+deb http://ppa.launchpad.net/netrunner-os/netrunner-16-official/ubuntu vivid main
+#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-official/ubuntu vivid main
+deb http://ppa.launchpad.net/netrunner-os/netrunner-16-ci-updates/ubuntu vivid main 
+#deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-ci-updates/ubuntu vivid main
 deb http://ppa.launchpad.net/netrunner-os/netrunner-16-updates/ubuntu vivid main 
 #deb-src http://ppa.launchpad.net/netrunner-os/netrunner-16-updates/ubuntu vivid main 
 
