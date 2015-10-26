@@ -1,2 +1,2 @@
-deb http://ppa.launchpad.net/plasmazilla/releases/ubuntu vivid main 
-# deb-src http://ppa.launchpad.net/plasmazilla/releases/ubuntu vivid main 
+deb http://ppa.launchpad.net/plasmazilla/releases/ubuntu wily main 
+# deb-src http://ppa.launchpad.net/plasmazilla/releases/ubuntu wily main 
