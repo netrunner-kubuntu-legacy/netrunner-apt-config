@@ -1,6 +1,14 @@
+Package: kio
+Pin: release o=LP-PPA-kubuntu-ppa-backports
+Pin-Priority: 800
+
 Package: *
 Pin: release o=netrunner
 Pin-Priority: 777
+
+Package: *
+Pin: release o=LP-PPA-kubuntu-ppa-backports
+Pin-Priority: 700
 
 Package: *
 Pin: release o=Ubuntu
