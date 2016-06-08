@@ -1,3 +1,150 @@
+netrunner-apt-config (1.4.1) xenial; urgency=medium
+
+  * Drop kubuntu backports from postinst
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 08 Jun 2016 17:42:18 +0200
+
+netrunner-apt-config (1.4.0) xenial; urgency=medium
+
+  * Prepare for xenial
+  * Remove kubuntu backports ppa (now based on neon which provides newer packages)
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 07 Jun 2016 16:02:07 +0200
+
+netrunner-apt-config (1.3.0) wily; urgency=medium
+
+  * Added kubuntu backports ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 19 Nov 2015 16:54:39 +0100
+
+netrunner-apt-config (1.2.9) wily; urgency=medium
+
+  * Adapted to newer server adress
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 02 Nov 2015 09:35:49 +0100
+
+netrunner-apt-config (1.2.8) wily; urgency=medium
+
+  * Initial 2015.11u packaged
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 26 Oct 2015 11:29:50 +0100
+
+netrunner-apt-config (1.2.7) vivid; urgency=low
+
+  * Use netrunner-16-official & netrunner-16-ci-updates ppa instead of ~-ci
+    & ~-ci-fixes ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 11 May 2015 15:32:10 +0200
+
+netrunner-apt-config (1.2.6) vivid; urgency=low
+
+  * Added netrunner-16-updates ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 11 May 2015 10:11:24 +0200
+
+netrunner-apt-config (1.2.5) vivid; urgency=low
+
+  * Added netrunner16-ci-fixes ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 05 May 2015 16:22:46 +0200
+
+netrunner-apt-config (1.2.4) vivid; urgency=low
+
+  * Replace moz-plasma ppa with plasmazilla ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 04 May 2015 12:13:20 +0200
+
+netrunner-apt-config (1.2.3) vivid; urgency=low
+
+  * Added netrunner ppa and wine ppa keyrings
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 28 Apr 2015 11:29:09 +0200
+
+netrunner-apt-config (1.2.2) vivid; urgency=low
+
+  * Added netrunner16-kci ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 24 Apr 2015 13:31:57 +0200
+
+netrunner-apt-config (1.2.1) vivid; urgency=low
+
+  * Prepared for vivid
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 13 Apr 2015 12:20:17 +0200
+
+netrunner-apt-config (1.2.0) utopic; urgency=low
+
+  * Added -ci-kf5 ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 10 Feb 2015 13:39:41 +0100
+
+netrunner-apt-config (1.1.9) utopic; urgency=low
+
+  * Added priority rules for *-ci-backports & *-ci-52
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 09 Feb 2015 12:35:15 +0100
+
+netrunner-apt-config (1.1.8) utopic; urgency=low
+
+  * Add higher priority rule for netrunner-15-ci-fixes
+
+ -- Leszek Lesner <leszek@zevenos.com>  Thu, 05 Feb 2015 15:43:04 +0100
+
+netrunner-apt-config (1.1.7) utopic; urgency=low
+
+  * Changed package description
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 02 Feb 2015 18:18:25 +0100
+
+netrunner-apt-config (1.1.6) utopic; urgency=low
+
+  * Added all netrunner ci repos
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 02 Feb 2015 12:06:29 +0100
+
+netrunner-apt-config (1.1.5) utopic; urgency=low
+
+  * Enable netrunner-15-updates and make it highest prio
+
+ -- Leszek Lesner <leszek@zevenos.com>  Wed, 28 Jan 2015 12:31:56 +0100
+
+netrunner-apt-config (1.1.4) utopic; urgency=low
+
+  * Added netrunner15-ci ppas
+  * Added moz-plasma ppa
+
+ -- Leszek Lesner <leszek@zevenos.com>  Mon, 26 Jan 2015 14:45:46 +0100
+
+netrunner-apt-config (1.1.3) utopic; urgency=low
+
+  * Updated for Netrunner 15
+
+ -- Leszek Lesner <leszek@zevenos.com>  Tue, 28 Oct 2014 12:59:52 +0100
+
+netrunner-apt-config (1.1.2) trusty; urgency=low
+
+  * Activated apt-pinning for frontier-14-updates
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 09 May 2014 11:56:47 +0200
+
+netrunner-apt-config (1.1.1) trusty; urgency=low
+
+  * Activated packages.netrunner-os.com and trusty-updates
+
+ -- Leszek Lesner <leszek@zevenos.com>  Fri, 02 May 2014 20:19:49 +0200
+
+netrunner-apt-config (1.1.0) trusty; urgency=low
+
+  * Updated to trusty and frontier repos
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sat, 26 Apr 2014 11:23:57 +0200
+
+netrunner-apt-config (1.0.9) saucy; urgency=low
+
+  * Activate wine ppa by default
+
+ -- Leszek Lesner <leszek@zevenos.com>  Sat, 14 Dec 2013 11:07:59 +0100
+
 netrunner-apt-config (1.0.8) saucy; urgency=low
 
   * Update sources to link to 13.12
